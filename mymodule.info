@@ -1,0 +1,7 @@
+name = mymodule
+description = Supports configurable tables in places.
+core = 6.x
+version = "6.x-0.1"
+project = "mymodule"
+dependencies[]=date_api
+dependencies[]=date_popup
